@@ -1,4 +1,4 @@
-Github is a website where you can host your code in repositories. It makes easy to manage your code and collaberate with other. You have access to the history of code 
+Github is a website where you can host your code in repositories. It makes it easy to manage your code and collaberate with others.
 
 git clone is used to copy a repository from github to your computer.
 
